@@ -1,4 +1,4 @@
-# A (non-)curated list of blog-posts, essays, podcasts, etc., about (machine learning) research
+# A (non-)curated list of blog-posts, essays, etc., about (machine learning) research
 
 Just a bunch of stuff that I keep here instead of as bookmarks...
 
