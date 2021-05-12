@@ -1,6 +1,6 @@
 # A (non-)curated list of blog-posts, essays, podcasts, etc., about (machine learning) research
 
-Just a bunch of stuff that keep here instead of keeping it as bookmarks...
+Just a bunch of stuff that I keep here instead of as bookmarks...
 
 ## General advice (probably)
 
