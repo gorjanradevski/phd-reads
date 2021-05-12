@@ -17,3 +17,9 @@
 - [How to write the introduction](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.g1cd4167aa3_0_51)
 
 - [Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
+
+- [Reviewing NLP papers](https://github.com/reviewingNLP/ACL2020T3material)
+
+- [A CVPR tutorial on how to write a good review](https://www.youtube.com/watch?v=W1zPtTt43LI)
+
+-
