@@ -29,3 +29,5 @@ Just a bunch of stuff that I keep here instead of as bookmarks...
 - [A CVPR tutorial on how to write a good review](https://www.youtube.com/watch?v=W1zPtTt43LI)
 
 - [Andrew Ng's lecture on how to read a Machine Learning paper](https://www.youtube.com/watch?v=733m6qBH-jI)
+
+- [Tips for Writing Technical Papers - Jennifer Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
