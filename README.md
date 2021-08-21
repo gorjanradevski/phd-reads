@@ -31,3 +31,6 @@ Just a bunch of stuff that I keep here instead of as bookmarks...
 - [Andrew Ng's lecture on how to read a Machine Learning paper](https://www.youtube.com/watch?v=733m6qBH-jI)
 
 - [Tips for Writing Technical Papers - Jennifer Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
+
+- [How to avoid machine learning pitfalls:
+a guide for academic researchers](https://arxiv.org/abs/2108.02497)
