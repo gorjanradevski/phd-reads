@@ -18,6 +18,8 @@ Just a bunch of stuff that I keep here instead of as bookmarks...
 
 - [Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
 
+- [The Bitter Lesson by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
 ## Reading, reviewing and writing papers
 
 - [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
@@ -34,3 +36,7 @@ Just a bunch of stuff that I keep here instead of as bookmarks...
 
 - [How to avoid machine learning pitfalls:
 a guide for academic researchers](https://arxiv.org/abs/2108.02497)
+
+- [How to read a Machine Learning paper](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf)
+
+
